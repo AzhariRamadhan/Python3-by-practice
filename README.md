@@ -7,7 +7,7 @@
 ![Awesome badge](images/awesome.svg)
 
 :wave: Welcome to **Python3 by practice**! We are an open source community contributing to compile a collection of learning resources
-for CSE/IT enthusiasts, or anyone who finds these resources useful to learn Python 3. If you contributed to this repo in any manner 
+for **Python** enthusiasts, or anyone who finds these resources useful. If you contributed to this repo in any manner 
 navigate to [Contributors](https://github.com/Rishit-dagli/Python3-by-practice#contributors-) to find your name and photo listed there.
 
 Show some :heart: and :star: this repository!
@@ -101,8 +101,33 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://rashiwal.me/"><img src="https://avatars3.githubusercontent.com/u/31043830?s=460&u=c1c0b00e4e2d21157946cd0b7907d2fb72686fa7&v=4" width="100px;" alt=""/><br /><sub><b>Rohit Ashiwal</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=r1walz" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Aditya-1500"><img src="https://avatars1.githubusercontent.com/u/55556609?v=4" width="100px;" alt=""/><br /><sub><b>Aditya-1500</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=Aditya-1500" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/subhipandey"><img src="https://avatars2.githubusercontent.com/u/33100167?v=4" width="100px;" alt=""/><br /><sub><b>Subhi Pandey</b></sub></a><br /><a href="#content-subhipandey" title="Content">🖋</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/avinkumar"><img src="https://avatars0.githubusercontent.com/u/41837574?v=4" width="100px;" alt=""/><br /><sub><b>Avinash Kumar</b></sub></a><br /><a href="#content-Avinashshah099" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/avinkumar"><img src="https://avatars0.githubusercontent.com/u/41837574?v=4" width="100px;" alt=""/><br /><sub><b>Avinash Kumar</b></sub></a><br /><a href="#content-Avinashshah099" title="Content">🖋</a> <a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=Avinashshah099" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kushalbargoti"><img src="https://avatars1.githubusercontent.com/u/72150514?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Bargoti</b></sub></a><br /><a href="#content-kushalbargoti" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/artorias111"><img src="https://avatars2.githubusercontent.com/u/48955393?v=4" width="100px;" alt=""/><br /><sub><b>Shriram Bhat</b></sub></a><br /><a href="#content-artorias111" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.instagram.com/mr_codeaholic/"><img src="https://avatars0.githubusercontent.com/u/30361120?v=4" width="100px;" alt=""/><br /><sub><b>Preetam Rane</b></sub></a><br /><a href="#content-Preetam2114" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ChiragSaxena5437"><img src="https://avatars0.githubusercontent.com/u/64087682?v=4" width="100px;" alt=""/><br /><sub><b>Chirag saxena</b></sub></a><br /><a href="#content-ChiragSaxena5437" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/aditya9110"><img src="https://avatars2.githubusercontent.com/u/40512329?v=4" width="100px;" alt=""/><br /><sub><b>Aditya Mahimkar</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=aditya9110" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/shubham-sah/"><img src="https://avatars1.githubusercontent.com/u/42349247?v=4" width="100px;" alt=""/><br /><sub><b>Shubham Sah</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=shubhamsah" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/manthan89-py"><img src="https://avatars0.githubusercontent.com/u/61309101?v=4" width="100px;" alt=""/><br /><sub><b>Manthan Bhikadiya</b></sub></a><br /><a href="#content-manthan89-py" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/chetak123"><img src="https://avatars1.githubusercontent.com/u/53306550?v=4" width="100px;" alt=""/><br /><sub><b>Ayushman</b></sub></a><br /><a href="#content-chetak123" title="Content">🖋</a></td>
+    <td align="center"><a href="http://jagadyudha.github.io"><img src="https://avatars2.githubusercontent.com/u/41937681?v=4" width="100px;" alt=""/><br /><sub><b>Jagad yudha</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=jagadyudha" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gpriya32"><img src="https://avatars3.githubusercontent.com/u/43782307?v=4" width="100px;" alt=""/><br /><sub><b>Priyanka Gupta</b></sub></a><br /><a href="#content-gpriya32" title="Content">🖋</a></td>
+    <td align="center"><a href="https://theja-vanka.github.io/"><img src="https://avatars0.githubusercontent.com/u/22734103?v=4" width="100px;" alt=""/><br /><sub><b>Krishnatheja Vanka</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=theja-vanka" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sujoy-coder"><img src="https://avatars1.githubusercontent.com/u/65298629?v=4" width="100px;" alt=""/><br /><sub><b>sujoy-coder</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=sujoy-coder" title="Code">💻</a></td>
+    <td align="center"><a href="https://jeremie-gauthier.github.io/"><img src="https://avatars0.githubusercontent.com/u/28305181?v=4" width="100px;" alt=""/><br /><sub><b>jergauth</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=jeremie-gauthier" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/cocobaco"><img src="https://avatars3.githubusercontent.com/u/7248405?v=4" width="100px;" alt=""/><br /><sub><b>Roppon Picha</b></sub></a><br /><a href="#content-cocobaco" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/kmert10"><img src="https://avatars1.githubusercontent.com/u/10086182?v=4" width="100px;" alt=""/><br /><sub><b>Mert Karakas</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=kmert10" title="Code">💻</a></td>
+    <td align="center"><a href="https://karan-ksrk.github.io/"><img src="https://avatars3.githubusercontent.com/u/44173143?v=4" width="100px;" alt=""/><br /><sub><b>karan-ksrk</b></sub></a><br /><a href="#content-karan-ksrk" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/antonioalmeidab"><img src="https://avatars1.githubusercontent.com/u/40811660?v=4" width="100px;" alt=""/><br /><sub><b>Antonio Almeida</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=antonioalmeidab" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/itsnotsagar"><img src="https://avatars0.githubusercontent.com/u/56265949?v=4" width="100px;" alt=""/><br /><sub><b>Sagar Yadav</b></sub></a><br /><a href="#content-itsnotsagar" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/PRIYANSHU-AMBITION/"><img src="https://avatars2.githubusercontent.com/u/33357862?v=4" width="100px;" alt=""/><br /><sub><b>PRIYANSHU TRIVEDI</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=PRIYANSHU-AMBITION" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/reddymahendra52"><img src="https://avatars3.githubusercontent.com/u/61696212?v=4" width="100px;" alt=""/><br /><sub><b>reddymahendra52</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=reddymahendra52" title="Code">💻</a></td>
   </tr>
 </table>
 
